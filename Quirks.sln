@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quirks", "Quirks.csproj", "{729DD84B-C238-4051-9C60-4024A625BCEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729DD84B-C238-4051-9C60-4024A625BCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729DD84B-C238-4051-9C60-4024A625BCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729DD84B-C238-4051-9C60-4024A625BCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729DD84B-C238-4051-9C60-4024A625BCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CA5929-74FB-4D80-A627-5556469EAFE3}
+	EndGlobalSection
+EndGlobal
